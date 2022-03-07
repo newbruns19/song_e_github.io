@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/",
+    "title": "Blogs (as of Mar 7)",
+    "description": "If you'd like to learn about your colleague's project!",
+    "author": [
+      {
+        "name": "E. Song",
+        "url": {}
+      }
+    ],
+    "date": "2022-03-07",
+    "categories": [],
+    "contents": "\nC. Pierce.\nJ. Wolpert.\nN. Milstein.\nJ. Flattery.\nB. Lewis.\nJ. Burnworth.\nM. Levy.\nH. Chimowitz.\nK. Becvar.\nZ. Bean.\nM. Gogula.\nM. Georges.\nJ. Wierzbowski.\nA. Qi.\nS. Thogaru.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-03-07T00:29:59-05:00",
+    "input_file": "testposting.knit.md"
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Text-as-Data (Spring 2022)",
     "description": "Welcome to our new blog! We hope you enjoy \nreading what we have to say!",
@@ -14,6 +31,6 @@
     "contents": "\n\n\n\n",
     "preview": {},
     "last_modified": "2022-03-06T23:57:18-05:00",
-    "input_file": "welcome.knit.md"
+    "input_file": {}
   }
 ]
