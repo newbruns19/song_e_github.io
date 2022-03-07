@@ -1,13 +1,13 @@
 ---
-title: "Welcome to Test Course Blog"
+title: "Welcome to Text-as-Data (Spring 2022)"
 description: |
-  Welcome to our new blog, Test Course Blog. We hope you enjoy 
+  Welcome to our new blog! We hope you enjoy 
   reading what we have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
+  - name: E. Song
+    #url: https://example.com/norajones
+    affiliation: Data Analytics and Computational Social Science Program
+    affiliation_url: https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program
 date: 03-06-2022
 output:
   distill::distill_article:
