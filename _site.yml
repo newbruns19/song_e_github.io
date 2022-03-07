@@ -1,7 +1,7 @@
 name: "."
 title: "Text as Data (Spring 2022)"
 description: |
-  Course github for Text-as-Data
+  Course blog for Text-as-Data
 output_dir: "docs"
 navbar:
   right:
