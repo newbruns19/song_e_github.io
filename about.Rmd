@@ -1,10 +1,9 @@
 ---
-title: "About the Course"
-site: distill::distill_website
+title: "About this blog"
+description: |
+  Some additional details about the blog
 ---
 
-This is some information about DACSS and the course. Can be prefilled in with something interesting.
-
-
-## Course Instructor:
-[`r Sys.getenv('INSTRUCTOR_NAME')`](instructor.html)
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
