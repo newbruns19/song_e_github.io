@@ -1,7 +1,7 @@
 name: "."
-title: "Test Course Blog"
+title: "Text as Data (Spring 2022)"
 description: |
-  Test Course Blog
+  Course github for Text-as-Data
 output_dir: "docs"
 navbar:
   right:
