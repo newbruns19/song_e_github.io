@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 [J. Wolpert](https://rpubs.com/wolpert561).
 
 
-[N. Milstein](https://rpubs.com/nmilstein).
+[N. Milstein](https://nmilsteinuma.github.io/)
 
 
 [J. Flattery](https://rpubs.com/jflattery).
