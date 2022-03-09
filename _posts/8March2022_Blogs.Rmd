@@ -1,0 +1,73 @@
+---
+title: "Blogs (as of Mar 8)"
+description: |
+  If you'd like to learn about your colleague's project!
+author:
+  - name: E. Song
+    #url: https://example.com/norajones
+    #affiliation: Spacely Sprockets
+    #affiliation_url: https://example.com/spacelysprokets
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+[C. Pierce](https://rpubs.com/cmpierce). 
+
+
+[J. Wolpert](https://rpubs.com/wolpert561).
+
+
+[N. Milstein](https://rpubs.com/nmilstein).
+
+
+[J. Flattery](https://rpubs.com/jflattery).
+
+
+[B. Lewis](https://rpubs.com/Rutherford_B_Crazy).
+
+
+[J. Burnworth](https://rpubs.com/burnworthj).
+
+
+[M. Levy](https://mlev-dacss-blog.netlify.app/blog/).
+
+
+[H. Chimowitz](https://rpubs.com/Hannah_Chimowitz).
+
+
+[K. Becvar](https://rpubs.com/kbec).
+
+
+[Z. Bean](https://rpubs.com/bean22z).
+
+
+[M. Gogula](https://rpubs.com/Manikanta).
+
+
+[M. Georges](https://rpubs.com/MeganGeorges/DACSS697).
+
+
+[J. Wierzbowski](https://rpubs.com/JWiz).
+
+
+[A. Qi](https://rpubs.com/alexdqi).
+
+
+[S. Thogaru](https://sathvikthogaru.netlify.app).
+
+
+[N. Ross](https://rpubs.com/njross).
+
+
+[E. Bates-Haus](https://rpubs.com/lbateshaus).
+
+
+
+
+
+
