@@ -1,5 +1,5 @@
 ---
-title: "Blogs (as of Mar 7)"
+title: "Blogs (as of Mar 8)"
 description: |
   If you'd like to learn about your colleague's project!
 author:
