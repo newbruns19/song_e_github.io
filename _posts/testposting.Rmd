@@ -60,6 +60,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [S. Thogaru](https://sathvikthogaru.netlify.app).
 
+[N. Ross](https://rpubs.com/njross).
+
+[E. Bates-Haus](https://rpubs.com/lbateshaus).
+
 
 
 
