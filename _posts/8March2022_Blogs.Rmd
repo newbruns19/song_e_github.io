@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 [C. Pierce](https://rpubs.com/cmpierce). 
 
 
-[J. Wolpert](https://rpubs.com/wolpert561).
+[J. Wolpert](https://rpubs.com/wolpert516).
 
 
 [N. Milstein](https://nmilsteinuma.github.io/)
