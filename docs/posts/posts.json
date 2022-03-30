@@ -1,7 +1,7 @@
 [
   {
     "path": "posts/",
-    "title": "Blogs (as of Mar 8)",
+    "title": "Blogs (as of Mar 30)",
     "description": "If you'd like to learn about your colleague's project!",
     "author": [
       {
@@ -9,11 +9,11 @@
         "url": {}
       }
     ],
-    "date": "2022-03-10",
+    "date": "2022-03-30",
     "categories": [],
-    "contents": "\nC. Pierce.\nJ. Wolpert.\nN. Milstein\nJ. Flattery.\nB. Lewis.\nJ. Burnworth.\nM. Levy.\nH. Chimowitz.\nK. Becvar.\nZ. Bean.\nM. Gogula.\nM. Georges.\nJ. Wierzbowski.\nA. Qi.\nS. Thogaru.\nN. Ross.\nE. Bates-Haus.\nZ. Tuladhar.\n\n\n\n",
+    "contents": "\nC. Pierce.\nJ. Wolpert.\nN. Milstein\nJ. Flattery.\nB. Lewis.\nJ. Burnworth.\nM. Levy.\nH. Chimowitz.\nK. Becvar.\nZ. Bean.\nM. Gogula.\nM. Georges.\nJ. Wierzbowski.\nA. Qi.\nS. Thogaru.\nN. Ross.\nE. Bates-Haus.\nZ. Tuladhar.\nM. kanta Gogula.\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-03-10T18:17:12-05:00",
+    "last_modified": "2022-03-30T17:38:36-04:00",
     "input_file": "8March2022_Blogs.knit.md"
   },
   {
