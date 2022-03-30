@@ -1,5 +1,5 @@
 ---
-title: "Blogs (as of Mar 8)"
+title: "Blogs (as of Mar 30)"
 description: |
   If you'd like to learn about your colleague's project!
 author:
@@ -68,6 +68,8 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 [Z. Tuladhar](https://rpubs.com/Zutima).
+
+[M. kanta Gogula](https://rpubs.com/Manikanta).
 
 
 
