@@ -69,7 +69,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [Z. Tuladhar](https://rpubs.com/Zutima).
 
-[M. kanta Gogula](https://rpubs.com/Manikanta).
 
 
 
